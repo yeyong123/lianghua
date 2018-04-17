@@ -1,0 +1,9 @@
+*.swp
+*.pyc
+config.py
+example_config.py
+data-dev.sqlite
+*.log
+logs/*
+tmp/*
+
